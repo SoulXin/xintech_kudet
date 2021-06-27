@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="col-start-4 col-end-10 border rounded">
+<div class="col-start-3 col-end-11 border rounded">
     <div class="col-span-12 mt-2 p-5 border-b-2 text-center relative">
         <a class="bg-gray-400 p-2 rounded absolute top-3 left-5" href = "{{route('konten.index')}}">
             <button>Kembali</button>
